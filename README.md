@@ -1,6 +1,6 @@
 #  Hi, I'm Hannah
 
-##  Data Analysis Portfolio
+# Data Analyst | Data Entry | Data Visualization
 
 Welcome to my data analysis portfolio repository. This space showcases my learning journey, practice projects, and hands-on experience working with data.
 
@@ -8,8 +8,8 @@ Welcome to my data analysis portfolio repository. This space showcases my learni
 
 ##  About Me
 
-I am an aspiring Data Analyst with a background in Microbiology and hands-on experience in data entry and data handling.  
-I am currently building my skills in data analysis, focusing on transforming raw data into meaningful insights.
+I am an aspiring Data Analyst with a background in Microbiology and hands-on experience in data entry and data handling, data processing, and data analysis.  
+Skilled in transforming raw data into structured, meaningful insights to support decision-making and reporting.
 
 ---
 
@@ -22,12 +22,25 @@ I am currently building my skills in data analysis, focusing on transforming raw
 
 ---
 
-##  Skills I'm Developing
+## Skills & Tools
 
-- Data cleaning and organization  
-- Data interpretation  
-- Basic analytical thinking  
-- Data entry accuracy and structuring  
+### Data Analysis & Processing
+- Data Entry
+- Data Cleaning
+- Data Analysis
+- Data Management
+
+### Programming & Analysis Tools
+- Python
+- SQL
+- Pandas
+- NumPy
+
+### Visualization & Reporting
+- Microsoft Power BI
+- Matplotlib
+- Seaborn
+- Microsoft Excel
 
 ---
 
